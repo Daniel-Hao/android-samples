@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_sample_code.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support13Demos\\src\\main\\res\\drawable-mdpi\\app_sample_code.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alert_dialog_icon.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support13Demos\\src\\main\\res\\drawable-mdpi\\alert_dialog_icon.png"
+    }
+]

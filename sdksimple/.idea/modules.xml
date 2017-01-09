@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdksimple.iml" filepath="$PROJECT_DIR$/sdksimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support13Demos/support13Demos.iml" filepath="$PROJECT_DIR$/support13Demos/support13Demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/support4Demos/support4Demos.iml" filepath="$PROJECT_DIR$/support4Demos/support4Demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/support7Demos/support7Demos.iml" filepath="$PROJECT_DIR$/support7Demos/support7Demos.iml" />
     </modules>

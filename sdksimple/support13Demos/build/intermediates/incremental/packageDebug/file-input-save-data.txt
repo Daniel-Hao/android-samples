@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Jan 09 19:56:44 CST 2017
+2.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\simple_list_item_checkable_1.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\app_sample_code.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\alert_dialog_icon.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_pager.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_pager_list.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\counting.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE
