@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar_share_action_provider.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\action_bar_share_action_provider.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\sample_palette_actions.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\sample_palette_actions.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\display_options_actions.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\display_options_actions.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\actions.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar_settings_action_provider.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\popup_menu.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\menu\\sample_media_router_menu.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\menu\\sample_media_router_menu.xml"
+    }
+]

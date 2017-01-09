@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alert_dialog_icon.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\android_robot.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\android_robot.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_favorite.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_sample_code.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\app_sample_code.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer_am.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\ic_drawer_am.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    }
+]

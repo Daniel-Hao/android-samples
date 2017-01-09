@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refresh.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_favorite.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-xhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer_am.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-xhdpi\\ic_drawer_am.png"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\android_robot.png",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\drawable-xhdpi\\android_robot.png"
+    }
+]

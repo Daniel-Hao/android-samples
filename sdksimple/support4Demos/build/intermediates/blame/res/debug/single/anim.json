@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_slide_left_enter.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\anim\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_slide_left_exit.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\anim\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_quint.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\anim\\decelerate_quint.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_slide_right_exit.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\anim\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\anim\\fragment_slide_right_enter.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\anim\\fragment_slide_right_enter.xml"
+    }
+]

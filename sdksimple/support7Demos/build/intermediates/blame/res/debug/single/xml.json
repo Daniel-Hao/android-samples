@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support7Demos\\src\\main\\res\\xml\\searchable.xml"
+    }
+]
