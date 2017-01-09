@@ -28,12 +28,12 @@
         "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\layout\\drawable_compat.xml"
     },
     {
-        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\layout\\explore_by_touch_helper.xml",
-        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\layout\\explore_by_touch_helper.xml"
-    },
-    {
         "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\layout\\receive_result.xml",
         "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\layout\\receive_result.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\layout\\explore_by_touch_helper.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\src\\main\\res\\layout\\explore_by_touch_helper.xml"
     },
     {
         "merged": "D:\\githubcode\\android-samples\\sdksimple\\support4Demos\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tabs_pager.xml",

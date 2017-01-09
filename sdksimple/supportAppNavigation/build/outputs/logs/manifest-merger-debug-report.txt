@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:17:1-116:12
+	package
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:20:9-60
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:18:9-32
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:17:11-34
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:19:9-67
+uses-sdk
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:22:5-73
+MERGED from [com.android.support:support-v4:23.1.1] D:\githubcode\android-samples\sdksimple\supportAppNavigation\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:22:41-70
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:22:15-40
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+		INJECTED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml
+application
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:24:5-115:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\githubcode\android-samples\sdksimple\supportAppNavigation\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:24:18-50
+activity#com.example.android.support.appnavigation.app.AppNavHomeActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:26:17-59
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:25:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.support.appnavigation.app.SimpleUpActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:34:19-58
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:33:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.SAMPLE_CODE
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:35:13-38:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:37:17-80
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:37:27-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:39:13-40:66
+	android:value
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:40:24-63
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:39:24-70
+activity#com.example.android.support.appnavigation.app.PeerActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:44:19-53
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:43:19-51
+activity#com.example.android.support.appnavigation.app.ViewFromOtherTaskActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:53:9-61:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:54:19-69
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:53:19-64
+activity#com.example.android.support.appnavigation.app.OutsideTaskActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:63:9-71:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:64:19-61
+	android:theme
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:65:19-53
+	android:taskAffinity
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:66:19-87
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:63:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:67:13-70:29
+category#android.intent.category.DEFAULT
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:69:27-73
+activity#com.example.android.support.appnavigation.app.ContentViewActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:73:9-83:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:74:19-61
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:73:19-58
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:75:13-80:29
+action#android.intent.action.VIEW
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:77:25-66
+data
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:78:17-66
+	android:mimeType
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:78:23-63
+activity#com.example.android.support.appnavigation.app.ContentCategoryActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:85:9-93:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:86:19-65
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:85:19-62
+activity#com.example.android.support.appnavigation.app.NotificationsActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:95:9-103:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:96:19-62
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:95:19-60
+activity#com.example.android.support.appnavigation.app.InterstitialMessageActivity
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:105:9-114:20
+	android:label
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:106:19-61
+	android:excludeFromRecents
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:109:19-52
+	android:launchMode
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:108:19-50
+	android:theme
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:107:19-54
+	android:taskAffinity
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:110:19-42
+	android:name
+		ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:105:19-66
+intent-filter#android.intent.action.MAIN
+ADDED from D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\AndroidManifest.xml:111:13-113:29

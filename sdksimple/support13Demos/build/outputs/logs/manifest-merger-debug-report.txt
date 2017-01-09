@@ -13,8 +13,8 @@ ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\Andro
 		ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml:25:22-69
 uses-sdk
 ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml:27:5-44
-MERGED from [com.android.support:support-v13:23.2.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:23.2.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.1.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.1.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml
 		INJECTED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml
@@ -30,8 +30,8 @@ ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\Andro
 		ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml:33:23-60
 application
 ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml:36:5-90:19
-MERGED from [com.android.support:support-v13:23.2.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.1.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\githubcode\android-samples\sdksimple\support13Demos\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\githubcode\android-samples\sdksimple\support13Demos\src\main\AndroidManifest.xml:36:18-62
 	android:hardwareAccelerated

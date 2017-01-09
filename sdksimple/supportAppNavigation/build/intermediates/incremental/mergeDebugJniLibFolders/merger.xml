@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\githubcode\android-samples\sdksimple\supportAppNavigation\src\debug\jniLibs"/></dataSet></merger>

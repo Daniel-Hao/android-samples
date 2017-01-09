@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Jan 09 20:01:30 CST 2017
+2.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\content_category.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\interstitial_message.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notifications.xml
+4.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\view_from_other_task.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\simple_up.xml
+5.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\outside_task.xml
+9.set=DEX
+9.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+10.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\content_view.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\peer.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 81,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 89,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endColumn": 90,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 74,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\values-v11\\themes.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 75,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 72,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\values-v11\\themes.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 73,
+                        "endOffset": 755
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Jan 09 20:01:30 CST 2017
+base.0=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

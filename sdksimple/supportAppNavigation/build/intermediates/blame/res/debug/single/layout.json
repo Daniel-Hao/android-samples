@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\interstitial_message.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\interstitial_message.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\view_from_other_task.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\view_from_other_task.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\notifications.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\notifications.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\outside_task.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\outside_task.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\content_category.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\content_category.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\content_view.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\content_view.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\simple_up.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\simple_up.xml"
+    },
+    {
+        "merged": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\build\\intermediates\\res\\merged\\debug\\layout\\peer.xml",
+        "source": "D:\\githubcode\\android-samples\\sdksimple\\supportAppNavigation\\src\\main\\res\\layout\\peer.xml"
+    }
+]

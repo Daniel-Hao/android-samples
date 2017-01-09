@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 09 19:56:44 CST 2017
+#Mon Jan 09 20:01:11 CST 2017
 2.base=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_
 5.file=D\:\\githubcode\\android-samples\\sdksimple\\support13Demos\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\simple_list_item_checkable_1.xml
 5.set=ANDROID_RESOURCE

@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/support13Demos" />
             <option value="$PROJECT_DIR$/support4Demos" />
             <option value="$PROJECT_DIR$/support7Demos" />
+            <option value="$PROJECT_DIR$/supportAppNavigation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
